@@ -1,4 +1,4 @@
-# Data-Lake-DEND4thProject
+# Data-Lake-with-Apache-Spark-DEND
 
 This project is one of Data Engineering Nanodegree
 
